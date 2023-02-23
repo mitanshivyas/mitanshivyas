@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mitanshi Vyas</h1>
 <h3 align="center">An aspiring Data Scientist and Machine Learning Engineer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mitanshivyas&label=Profile%20views&color=0e75b6&style=flat" alt="mitanshivyas" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitanshivyas" alt="mitanshivyas" /></a> </p>
+<p align="left"> <img src="https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif" alt="mitanshivyas" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/mitanshivyas](https://github.com/mitanshivyas)
 
