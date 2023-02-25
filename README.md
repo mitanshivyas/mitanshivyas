@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif" alt="mitanshivyas" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/mitanshivyas](https://github.com/mitanshivyas)
+- 👨‍💻 All of my projects are available at [Portfolio]([https://github.com/mitanshivyas](https://mitanshivyas.github.io/Mitanshi_Portfolio/))
 
 - 📫 How to reach me **vyas.mit@northeastern.edu**
 
