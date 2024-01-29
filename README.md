@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitanshivyas&show_icons=true&locale=en" alt="mitanshivyas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitanshivyas&" alt="mitanshivyas" /></p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/mitanshivyas?theme=dark)
