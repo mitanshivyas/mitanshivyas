@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitanshivyas&" alt="mitanshivyas" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/mitanshivyas?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/markov_sucks?theme=dark)
