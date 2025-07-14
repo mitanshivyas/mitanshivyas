@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif" alt="mitanshivyas" /> </p>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://mitanshivyas.github.io/Mitanshi_Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://mitanshi-ai-portfolio.vercel.app/)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pPvZrYiFdsAxmmcCp4pu57gCkU6FW3z4/view?usp=sharing)
 
